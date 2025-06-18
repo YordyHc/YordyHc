@@ -46,8 +46,8 @@ Aquí puedes encontrar algunos de mis proyectos personales y ejercicios de prác
 - [API de Autenticación con Django REST y JWT](https://github.com/YordyHc/django_curso)  
   API backend que implementa autenticación segura con tokens JWT.
 
-  > [!NOTE]
-  > Trabajando en mi portafolio personal🧐... Coming soon➡️.
+> [!NOTE]
+> Trabajando en mi portafolio personal🧐... Coming soon➡️.
 
 ---
 
