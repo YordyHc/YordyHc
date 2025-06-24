@@ -3,9 +3,8 @@
 
 
 
-🎓 Futuro profesional en Desarrollo de software
-💻 Apasionado por la tecnología, la programación y el aprendizaje constante   
-🚀 Actualmente desarrollando proyectos personales y aprendiendo nuevas tecnologías
+🎓 Ya pasaron dos años desde que hasta escribir en el teclado se me hacía difícil.
+🚀 Hoy en día ando metido en proyectos personales y aprendiendo nuevas tecnologías.
 
 ---
 
