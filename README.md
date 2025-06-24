@@ -1,4 +1,4 @@
-# ¡Hola Mundo🌎! Soy Yordy Huaman ![wayor_80px](https://github.com/user-attachments/assets/089fbfff-2f50-468b-82b9-7a8c660c6e7f)
+# ¡Hey! Soy Yordy Huaman ![wayor_80px](https://github.com/user-attachments/assets/089fbfff-2f50-468b-82b9-7a8c660c6e7f)
 
 
 
