@@ -3,8 +3,9 @@
 
 
 
-🎓 Ya pasaron dos años desde que hasta escribir en el teclado se me hacía difícil.
-🚀 Hoy en día ando metido en proyectos personales y aprendiendo nuevas tecnologías.
+🎓 Ya pasaron dos años desde que hasta escribir en el teclado se me hacía difícil. 
+
+Hoy en día ando metido en proyectos personales y aprendiendo nuevas tecnologías.🚀🥸
 
 ---
 
