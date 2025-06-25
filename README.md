@@ -3,9 +3,31 @@
 
 
 
-🎓 Ya pasaron dos años desde que hasta escribir en el teclado se me hacía difícil. 
+🎓 Ya pasaron 2 años desde que hasta escribir en el teclado se me hacía difícil. 
 
 Ahora solo me toma 30 minutos arreglar el bug... y 3 horas escribir el commit con tono profesional.🥸🚀
+
+---
+
+## 📂 Proyectos
+
+- [Creador de Widgets para Canales de YouTube](https://github.com/YordyHc/Creador_widgets_youtube)  
+  Aplicación web para generar widgets personalizados de canales de YouTube.
+
+- [Widget para canal de Youtube](https://github.com/YordyHc/widget_gallery_youtube)  
+  Componente que muestra videos de un canal en una galería dinámica y responsiva.
+
+- [Widget de Feed de Instagram](https://github.com/YordyHc/widget_instagram_s)  
+  Widget embebible que muestra publicaciones recientes de una cuenta de Instagram.
+
+- [Manual del Inspector (DevTools) con Docusaurus](https://github.com/YordyHc/docusaurio_yor)  
+  Documentación técnica sobre el uso del panel de desarrollador del navegador.
+
+- [API de Autenticación con Django REST y JWT](https://github.com/YordyHc/django_curso)  
+  API backend que implementa autenticación segura con tokens JWT.
+
+> [!NOTE]
+> Trabajando en mi portafolio personal🧐... Coming soon➡️.
 
 ---
 
@@ -24,30 +46,6 @@ Ahora solo me toma 30 minutos arreglar el bug... y 3 horas escribir el commit co
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat-square)
-
----
-
-## 📂 Portafolio
-
-Aquí puedes encontrar algunos de mis proyectos personales y ejercicios de práctica:
-
-- [Creador de Widgets para Canales de YouTube](https://github.com/YordyHc/Creador_widgets_youtube)  
-  Aplicación web para generar widgets personalizados de canales de YouTube.
-
-- [Galería de YouTube en forma de widget](https://github.com/YordyHc/widget_gallery_youtube)  
-  Componente que muestra videos de un canal en una galería dinámica y responsiva.
-
-- [Widget de Feed de Instagram](https://github.com/YordyHc/widget_instagram_s)  
-  Widget embebible que muestra publicaciones recientes de una cuenta de Instagram.
-
-- [Manual del Inspector (DevTools) con Docusaurus](https://github.com/YordyHc/docusaurio_yor)  
-  Documentación técnica sobre el uso del panel de desarrollador del navegador.
-
-- [API de Autenticación con Django REST y JWT](https://github.com/YordyHc/django_curso)  
-  API backend que implementa autenticación segura con tokens JWT.
-
-> [!NOTE]
-> Trabajando en mi portafolio personal🧐... Coming soon➡️.
 
 ---
 
