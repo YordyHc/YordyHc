@@ -5,7 +5,7 @@
 
 🎓 Ya pasaron dos años desde que hasta escribir en el teclado se me hacía difícil. 
 
-Hoy en día ando metido en proyectos personales y aprendiendo nuevas tecnologías.🚀🥸
+Ahora solo me toma 30 minutos arreglar el bug... y 3 horas escribir el commit con tono profesional.🥸🚀
 
 ---
 
