@@ -1,11 +1,9 @@
 # ¡Hey! Soy Yordy Huaman ![wayor_80px](https://github.com/user-attachments/assets/089fbfff-2f50-468b-82b9-7a8c660c6e7f)
 
 
+🎓 Hace solo 2 años, me resultaba difícil escribir con el teclado
 
-
-🎓 Ya pasaron 2 años desde que hasta escribir en el teclado se me hacía difícil. 
-
-Ahora solo me toma 30 minutos arreglar el bug... y 3 horas escribir el commit con tono profesional.🥸🚀
+Ahora me toma 20 minutos arreglar un bug🧐... y 1 hora escribir el commit con tono profesional🥸🚀
 
 ---
 
