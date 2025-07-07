@@ -1,31 +1,15 @@
-# ¡Hey! Soy Yordy Huaman ![wayor_80px](https://github.com/user-attachments/assets/089fbfff-2f50-468b-82b9-7a8c660c6e7f)
+# ¡Buenas!, soy Yordy Huaman ![wayor_80px](https://github.com/user-attachments/assets/089fbfff-2f50-468b-82b9-7a8c660c6e7f)
 
 
-🎓 Hace solo 2 años, me resultaba difícil escribir con el teclado
+🎓 Hace año y medio, me resultaba difícil escribir con el teclado y ahora, bueno... acá estoy.🥸🚀
 
-Ahora me toma 20 minutos arreglar un bug🧐... y 1 hora escribir el commit con tono profesional🥸🚀
+#### Estudiante de desarrollo de software, actualmente enfocándome en convertirme en desarrollador Full Stack.
 
 ---
 
-## 📂 Proyectos
+## Mi portafolio
 
-- [Creador de Widgets para Canales de YouTube](https://github.com/YordyHc/Creador_widgets_youtube)  
-  Aplicación web para generar widgets personalizados de canales de YouTube.
-
-- [Widget para canal de Youtube](https://github.com/YordyHc/widget_gallery_youtube)  
-  Componente que muestra videos de un canal en una galería dinámica y responsiva.
-
-- [Widget de Feed de Instagram](https://github.com/YordyHc/widget_instagram_s)  
-  Widget embebible que muestra publicaciones recientes de una cuenta de Instagram.
-
-- [Manual del Inspector (DevTools) con Docusaurus](https://github.com/YordyHc/docusaurio_yor)  
-  Documentación técnica sobre el uso del panel de desarrollador del navegador.
-
-- [API de Autenticación con Django REST y JWT](https://github.com/YordyHc/django_curso)  
-  API backend que implementa autenticación segura con tokens JWT.
-
-> [!NOTE]
-> Trabajando en mi portafolio personal🧐... Coming soon➡️.
+Dale un vistazo 👉🏼 [https://yordyhc-portafolio-2025.vercel.app/](https://yordyhc-portafolio-2025.vercel.app/)
 
 ---
 
@@ -47,9 +31,7 @@ Ahora me toma 20 minutos arreglar un bug🧐... y 1 hora escribir el commit con 
 
 ---
 
-## Mis estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YordyHc&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YordyHc&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YordyHc&layout=compact&theme=github_dark)
 
 ---
