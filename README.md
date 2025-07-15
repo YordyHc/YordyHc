@@ -9,7 +9,7 @@
 
 ## Mi portafolio
 
-Dale un vistazo 👉🏼 [https://yordyhc-portafolio-2025.vercel.app/](https://yordyhc-portafolio-2025.vercel.app/)
+Dale un vistazo 👉🏼 [https://yordyhc-portafolio.vercel.app/](https://yordyhc-portafolio.vercel.app/)
 
 ---
 
