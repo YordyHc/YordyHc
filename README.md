@@ -3,7 +3,7 @@
 
 🎓 Hace año y medio, me resultaba difícil escribir con el teclado y ahora, bueno... acá estoy.🥸🚀
 
-#### Estudiante de desarrollo de software, actualmente enfocándome en convertirme en desarrollador Full Stack.
+#### Estudiante de desarrollo de software, actualmente enfocado en desarrollo Full Stack.
 
 ---
 
