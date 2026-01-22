@@ -1,4 +1,5 @@
-# ¡Buenas!, soy Yordy Huaman ![wayor_80px](https://github.com/user-attachments/assets/089fbfff-2f50-468b-82b9-7a8c660c6e7f)
+# ¡Buenas!, soy Yordy Huaman <img width="75" height="75" alt="icono_wayor_75px" src="https://github.com/user-attachments/assets/206d5881-7f2f-4a32-bc0c-881a5c385738" />
+
 
 
 🎓 Hace año y medio, me resultaba difícil escribir con el teclado y ahora, bueno... acá estoy.🥸🚀
