@@ -1,4 +1,4 @@
-# ¡Hola! Soy Yordy Huaman <img src="https://github.com/user-attachments/assets/206d5881-7f2f-4a32-bc0c-881a5c385738" width="70" align="right"/>
+# ¡Hola! Soy Yordy Huaman <img src="https://github.com/user-attachments/assets/206d5881-7f2f-4a32-bc0c-881a5c385738" width="50"/>
 
 💻 **Desarrollador de Software Full Stack**.
 
@@ -55,9 +55,11 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 ---
 
 ## Estadísticas
-
+<div align="center">
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=YordyHc&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YordyHc&theme=react-dark)
+
+</div>
 
 ---
 
