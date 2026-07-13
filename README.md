@@ -1,14 +1,14 @@
-# ¡Hola! 👋 Soy Yordy Huaman <img src="https://github.com/user-attachments/assets/206d5881-7f2f-4a32-bc0c-881a5c385738" width="70" align="right"/>
+# ¡Hola! Soy Yordy Huaman <img src="https://github.com/user-attachments/assets/206d5881-7f2f-4a32-bc0c-881a5c385738" width="70" align="right"/>
 
-💻 **Estudiante de Desarrollo de Software** apasionado por el desarrollo **Full Stack**.
+💻 **Desarrollador de Software Full Stack**.
 
-Hace poco más de un año y medio me costaba escribir con el teclado; hoy desarrollo aplicaciones web y sigo aprendiendo cada día. 🚀
+Hace poco más de dos años me costaba escribir con el teclado; hoy desarrollo aplicaciones web y sigo aprendiendo cada día. 🚀
 
 Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para crear soluciones que generen impacto.
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 - 🌱 Actualmente profundizando en **Full Stack Development**.
 - ⚛️ Construyendo proyectos con **React**, **Node.js** y **Django REST Framework**.
@@ -17,7 +17,7 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 
 ---
 
-## 🌐 Portafolio
+## Portafolio
 
 ✨ Puedes ver algunos de mis proyectos aquí:
 
@@ -30,7 +30,7 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -54,15 +54,14 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YordyHc&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=YordyHc&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YordyHc&theme=react-dark)
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 💼 **LinkedIn**  
 https://www.linkedin.com/in/yordy-fidencio-huaman-cruz-55b60632b
@@ -75,7 +74,5 @@ yordyhuamanc@gmail.com
 <div align="center">
 
 ### Gracias por visitar mi perfil ⭐
-
-*"Siempre hay algo nuevo por aprender y un mejor proyecto por construir."*
 
 </div>
