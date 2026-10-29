@@ -21,7 +21,15 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 
 ✨ Puedes ver algunos de mis proyectos aquí:
 
-**🔗 https://yordyhc-portafolio.vercel.app/**
+<p align="center">
+  <a href="https://yordyhc-portafolio.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/_EXPLORAR_PORTAFOLIO-F6C915?style=for-the-badge&labelColor=11bbfe&logo=libretube&logoColor=black"
+      alt="Explorar mi portafolio"
+      width="300"
+    />
+  </a>
+</p>
 
 ---
 
