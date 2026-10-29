@@ -27,7 +27,7 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 
 ## 🛠️ Tecnologías
 
-### Frontend
+#### Frontend
 
 <table align="center">
 <tr>
@@ -58,7 +58,7 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 </tr>
 </table>
 
-### Backend / Data
+#### Backend / Data
 
 <table align="center">
 <tr>
@@ -97,7 +97,7 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 </tr>
 </table>
 
-### Cloud / Devops
+#### Cloud / Devops
 
 <table align="center">
 <tr>
@@ -129,7 +129,7 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 </tr>
 </table>
 
-### Otros
+#### Otros
 
 <table align="center">
 <tr>
@@ -174,11 +174,29 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 
 ## Contacto
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/yordy-fidencio-huaman-cruz-55b60632b
-
-📧 **Email**  
-yordyhuamanc@gmail.com
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/yordy-fidencio-huaman-cruz-55b60632b">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+             width="20" height="20" alt="LinkedIn" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/yordy-fidencio-huaman-cruz-55b60632b">Conectemos profesionalmente</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <a href="mailto:yordyhuamanc@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Gmail" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="mailto:yordyhuamanc@gmail.com">yordyhuamanc@gmail.com</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
