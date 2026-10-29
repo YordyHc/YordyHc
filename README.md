@@ -171,12 +171,30 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 
 ---
 
-## Estadísticas
+## Mi actividad en GitHub
 <div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=YordyHc&theme=radical)
 
 </div>
+
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YordyHc/YordyHc/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YordyHc/YordyHc/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/YordyHc/YordyHc/output/github-snake.svg"
+      alt="GitHub Contribution Snake de YordyHc"
+    />
+  </picture>
+</p>
 
 ---
 
