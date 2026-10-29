@@ -1,17 +1,14 @@
-# ¡Hola! Soy Yordy Huaman <img src="https://github.com/user-attachments/assets/206d5881-7f2f-4a32-bc0c-881a5c385738" width="50"/>
+# ¡Hola! Soy Yordy Huaman <img src="https://github.com/user-attachments/assets/206d5881-7f2f-4a32-bc0c-881a5c385738" width="47"/>
 
-💻 **Desarrollador de Software Full Stack**.
-
-Hace poco más de dos años me costaba escribir con el teclado; hoy desarrollo aplicaciones web y sigo aprendiendo cada día. 🚀
-
-Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para crear soluciones que generen impacto.
-
----
+#### **Desarrollador de Software Full Stack**.
 
 ## Sobre mí
 
+Hace poco más de tres años me costaba escribir con el teclado; hoy desarrollo sistemas de software y sigo aprendiendo cada día. 🚀
+Siempre estoy buscando nuevos desafíos, nuevas herramientas y oportunidades para mejores soluciones.
+
 - 🌱 Actualmente profundizando en **Full Stack Development**.
-- ⚛️ Construyendo proyectos con **React**, **Node.js** y **Django REST Framework**.
+- ⚛️ Construyendo proyectos con **React**, **LARAVEL** o **ASP .NET**.
 - 🧩 Me gusta resolver problemas mediante código limpio y buenas prácticas.
 - 📚 Aprendiendo constantemente nuevas tecnologías.
 
