@@ -179,6 +179,7 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 </div>
 
 
+
 <p align="center">
   <picture>
     <source
@@ -191,10 +192,12 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
     />
     <img
       src="https://raw.githubusercontent.com/YordyHc/YordyHc/output/github-snake.svg"
-      alt="GitHub Contribution Snake de YordyHc"
+      alt="Animación de contribuciones de GitHub de YordyHc"
+      width="100%"
     />
   </picture>
 </p>
+
 
 ---
 
