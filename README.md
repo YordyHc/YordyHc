@@ -29,28 +29,137 @@ Siempre estoy buscando nuevos desafíos, mejores prácticas y oportunidades para
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML5" /><br>HTML5
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS3" /><br>CSS3
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" /><br>JavaScript
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" /><br>React
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" alt="Angular" /><br>Angular
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" alt="Tailwind CSS" /><br>Tailwind CSS
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" alt="Bootstrap" /><br>Bootstrap
+</td>
+<td></td>
+</tr>
+</table>
 
-### Backend
+### Backend / Data
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" alt="ASP.NET" /><br>ASP.NET
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" alt="Laravel" /><br>Laravel
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" alt="PHP" /><br>PHP
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" alt="Django REST" /><br>Django REST
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" alt="Python" /><br>Python
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" alt="Node.js" /><br>Node.js
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java" /><br>Java
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL" /><br>MySQL
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server"><br>SQL Server
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL" /><br>PostgreSQL
+</td>
+</tr>
+</table>
 
-### Base de datos
+### Cloud / Devops
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker" /><br>Docker
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" /><br>Git
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /><br>GitHub
+</td>
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/hostinger/673DE6" width="48" alt="Hostinger"><br>Hostinger
+</td>
+</tr>
+<tr>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" /><br>Vercel
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" alt="Azure" /><br>Azure
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" width="48" alt="Google Cloud" /><br>Google Cloud
+</td>
+<td align="center" width="130">
+</td>
+</tr>
+</table>
 
-### Herramientas
+### Otros
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" alt="n8n"><br>n8n
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" /><br>Figma
+</td>
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="48" alt="Google Search Console"><br>Google Search Console
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" alt="Visual Studio" /><br>Visual Studio
+</td>
+</tr>
+<tr>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" /><br>Postman
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="Visual Studio Code" /><br>VS Code
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" alt="Notion" /><br>Notion
+</td>
+<td align="center" width="130">
+</td>
+</tr>
+</table>
 
 ---
 
