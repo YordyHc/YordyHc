@@ -2,7 +2,7 @@
 
 ### Hace poco más de tres años me costaba escribir con el teclado; hoy desarrollo sistemas de software y sigo aprendiendo cada día.
 
-**Soy técnico en Desarrollo de software**, durante mi camino he adquirido conocimientos en desarrollo de aplicaciones, bases de datos y resolución de problemas, convertí cada desafío en una oportunidad para crecer profesionalmente.
+Me llamo Yordy Huaman y **soy técnico en Desarrollo de software**, durante mi camino he adquirido conocimientos en desarrollo de aplicaciones, bases de datos y resolución de problemas, convertí cada desafío en una oportunidad para crecer profesionalmente.
 
 Me motiva seguir aprendiendo nuevas tecnologías, mejorar y crear soluciones que aporten valor a las personas y organizaciones. Estoy convencido de que cada línea de código representa una oportunidad para construir algo mejor.
 
